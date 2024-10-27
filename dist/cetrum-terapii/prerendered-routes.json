@@ -1,0 +1,30 @@
+{
+  "routes": [
+    "/",
+    "/assistance",
+    "/assistance/auditoryProcessingTherapy",
+    "/assistance/handTherapy",
+    "/assistance/neurodevelopmentalReflexTherapy",
+    "/assistance/neuroTactileTherapy",
+    "/assistance/pedagogicalTherapy",
+    "/assistance/psychologicalConsultations",
+    "/assistance/sensoryIntegrationTherapy",
+    "/assistance/specialistConsultations",
+    "/assistance/visionTherapy",
+    "/blog",
+    "/contact",
+    "/documents",
+    "/documents/imageConsent",
+    "/documents/minorsProtection",
+    "/documents/therapyConsent",
+    "/ourCenter",
+    "/priceList",
+    "/rodo",
+    "/therapist/0",
+    "/therapist/1",
+    "/therapist/2",
+    "/therapist/3",
+    "/therapist/4",
+    "/therapist/5"
+  ]
+}
