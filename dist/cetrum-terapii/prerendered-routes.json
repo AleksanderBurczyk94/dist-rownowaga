@@ -16,15 +16,15 @@
     "/terapeuta/3",
     "/terapeuta/4",
     "/terapeuta/5",
-    "/zakres-wsparcia",
-    "/zakres-wsparcia/konsultacje-psychologiczne",
-    "/zakres-wsparcia/konsultacje-specjalistyczne",
-    "/zakres-wsparcia/terapia-integracji-sensorycznej",
-    "/zakres-wsparcia/terapia-nerorozwojowa-odruchow",
-    "/zakres-wsparcia/terapia-neurotaktylna",
-    "/zakres-wsparcia/terapia-pedagogiczna",
-    "/zakres-wsparcia/terapia-przetwarzania-sluchowego",
-    "/zakres-wsparcia/terapia-reki",
-    "/zakres-wsparcia/terapia-widzenia"
+    "/zakres-pomocy",
+    "/zakres-pomocy/konsultacje-psychologiczne",
+    "/zakres-pomocy/konsultacje-specjalistyczne",
+    "/zakres-pomocy/terapia-integracji-sensorycznej",
+    "/zakres-pomocy/terapia-nerorozwojowa-odruchow",
+    "/zakres-pomocy/terapia-neurotaktylna",
+    "/zakres-pomocy/terapia-pedagogiczna",
+    "/zakres-pomocy/terapia-przetwarzania-sluchowego",
+    "/zakres-pomocy/terapia-reki",
+    "/zakres-pomocy/terapia-widzenia"
   ]
 }
