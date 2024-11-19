@@ -10,12 +10,6 @@
     "/kontakt",
     "/nasze-centrum",
     "/rodo",
-    "/terapeuta/0",
-    "/terapeuta/1",
-    "/terapeuta/2",
-    "/terapeuta/3",
-    "/terapeuta/4",
-    "/terapeuta/5",
     "/zakres-pomocy",
     "/zakres-pomocy/konsultacje-psychologiczne",
     "/zakres-pomocy/konsultacje-specjalistyczne",
@@ -24,7 +18,6 @@
     "/zakres-pomocy/terapia-neurotaktylna",
     "/zakres-pomocy/terapia-pedagogiczna",
     "/zakres-pomocy/terapia-przetwarzania-sluchowego",
-    "/zakres-pomocy/terapia-reki",
-    "/zakres-pomocy/terapia-widzenia"
+    "/zakres-pomocy/terapia-reki"
   ]
 }
